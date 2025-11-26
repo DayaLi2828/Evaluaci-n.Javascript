@@ -1,4 +1,4 @@
-import { validarAcceso } from './auth.js';
+import { validarAcceso } from '../2.ejercicio';
 
 
 console.log(validarAcceso(20, "12345")); 
