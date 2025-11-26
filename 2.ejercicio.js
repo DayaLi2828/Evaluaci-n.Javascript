@@ -12,4 +12,7 @@ export const validarAcceso = function(edad, contrasena) {
         return " Acceso denegado: Verifique edad y/o contraseña.";
     }
 };
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0243e5c1baca1b1255c387ecf3f4606fd49ad6be
